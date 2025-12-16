@@ -1,0 +1,91 @@
+text,emotion,timestamp,clean_text,emotion_label,words_before,words_after,time_period,augmented_text,aug_len
+i feel so happy today! (0),joy,2025-01-01 06:30:00,feel happy today! (0),2,6,4,Morning,today! happy feel (0),4
+i am really sad and lonely. (0),sadness,2025-01-01 07:30:00,really sad lonely. (0),3,7,4,Morning,lonely. (0) unhappy really,4
+everything makes me angry lately. (0),anger,2025-01-01 08:30:00,everything makes me angry lately. (0),0,6,6,Morning,everything makes lately. mad me (0),6
+i’m anxious about my exams. (0),fear,2025-01-01 09:30:00,i’m anxious about exams. (0),1,6,5,Morning,about anxious i’m (0) exams.,5
+life feels amazing and beautiful! (0),joy,2025-01-01 10:30:00,life feels amazing beautiful! (0),2,6,5,Morning,wonderful (0) feels life beautiful!,5
+i feel so happy today! (1),joy,2025-01-01 11:30:00,feel happy today! (1),2,6,4,Morning,feel joyful today! (1),4
+i am really sad and lonely. (1),sadness,2025-01-01 12:30:00,really sad lonely. (1),3,7,4,Afternoon,sad lonely. (1) really,4
+everything makes me angry lately. (1),anger,2025-01-01 13:30:00,everything makes me angry lately. (1),0,6,6,Afternoon,mad everything makes me (1) lately.,6
+i’m anxious about my exams. (1),fear,2025-01-01 14:30:00,i’m anxious about exams. (1),1,6,5,Afternoon,anxious (1) exams. about i’m,5
+life feels amazing and beautiful! (1),joy,2025-01-01 15:30:00,life feels amazing beautiful! (1),2,6,5,Afternoon,life wonderful feels beautiful! (1),5
+i feel so happy today! (2),joy,2025-01-01 16:30:00,feel happy today! (2),2,6,4,Afternoon,(2) today! joyful feel,4
+i am really sad and lonely. (2),sadness,2025-01-01 17:30:00,really sad lonely. (2),3,7,4,Afternoon,sad really (2) lonely.,4
+everything makes me angry lately. (2),anger,2025-01-01 18:30:00,everything makes me angry lately. (2),0,6,6,Evening,makes (2) everything me angry lately.,6
+i’m anxious about my exams. (2),fear,2025-01-01 19:30:00,i’m anxious about exams. (2),1,6,5,Evening,i’m exams. anxious about (2),5
+life feels amazing and beautiful! (2),joy,2025-01-01 20:30:00,life feels amazing beautiful! (2),2,6,5,Evening,life feels wonderful (2) beautiful!,5
+i feel so happy today! (3),joy,2025-01-01 21:30:00,feel happy today! (3),2,6,4,Evening,today! (3) joyful feel,4
+i am really sad and lonely. (3),sadness,2025-01-01 22:30:00,really sad lonely. (3),3,7,4,Evening,really (3) lonely. sad,4
+everything makes me angry lately. (3),anger,2025-01-01 23:30:00,everything makes me angry lately. (3),0,6,6,Evening,makes angry (3) everything lately. me,6
+i’m anxious about my exams. (3),fear,2025-01-02 00:30:00,i’m anxious about exams. (3),1,6,5,Night,(3) about exams. i’m anxious,5
+life feels amazing and beautiful! (3),joy,2025-01-02 01:30:00,life feels amazing beautiful! (3),2,6,5,Night,wonderful beautiful! life (3) feels,5
+i feel so happy today! (4),joy,2025-01-02 02:30:00,feel happy today! (4),2,6,4,Night,(4) feel happy today!,4
+i am really sad and lonely. (4),sadness,2025-01-02 03:30:00,really sad lonely. (4),3,7,4,Night,unhappy lonely. really (4),4
+everything makes me angry lately. (4),anger,2025-01-02 04:30:00,everything makes me angry lately. (4),0,6,6,Night,everything (4) angry me lately. makes,6
+i’m anxious about my exams. (4),fear,2025-01-02 05:30:00,i’m anxious about exams. (4),1,6,5,Night,(4) i’m anxious exams. about,5
+life feels amazing and beautiful! (4),joy,2025-01-02 06:30:00,life feels amazing beautiful! (4),2,6,5,Morning,feels amazing (4) beautiful! life,5
+i feel so happy today! (5),joy,2025-01-02 07:30:00,feel happy today! (5),2,6,4,Morning,joyful feel (5) today!,4
+i am really sad and lonely. (5),sadness,2025-01-02 08:30:00,really sad lonely. (5),3,7,4,Morning,(5) lonely. unhappy really,4
+everything makes me angry lately. (5),anger,2025-01-02 09:30:00,everything makes me angry lately. (5),0,6,6,Morning,makes (5) angry everything lately. me,6
+i’m anxious about my exams. (5),fear,2025-01-02 10:30:00,i’m anxious about exams. (5),1,6,5,Morning,i’m about exams. anxious (5),5
+life feels amazing and beautiful! (5),joy,2025-01-02 11:30:00,life feels amazing beautiful! (5),2,6,5,Morning,amazing (5) beautiful! feels life,5
+i feel so happy today! (6),joy,2025-01-02 12:30:00,feel happy today! (6),2,6,4,Afternoon,feel (6) today! happy,4
+i am really sad and lonely. (6),sadness,2025-01-02 13:30:00,really sad lonely. (6),3,7,4,Afternoon,(6) really lonely. unhappy,4
+everything makes me angry lately. (6),anger,2025-01-02 14:30:00,everything makes me angry lately. (6),0,6,6,Afternoon,me lately. mad everything makes (6),6
+i’m anxious about my exams. (6),fear,2025-01-02 15:30:00,i’m anxious about exams. (6),1,6,5,Afternoon,about anxious (6) i’m exams.,5
+life feels amazing and beautiful! (6),joy,2025-01-02 16:30:00,life feels amazing beautiful! (6),2,6,5,Afternoon,(6) beautiful! life feels amazing,5
+i feel so happy today! (7),joy,2025-01-02 17:30:00,feel happy today! (7),2,6,4,Afternoon,(7) happy feel today!,4
+i am really sad and lonely. (7),sadness,2025-01-02 18:30:00,really sad lonely. (7),3,7,4,Evening,(7) unhappy really lonely.,4
+everything makes me angry lately. (7),anger,2025-01-02 19:30:00,everything makes me angry lately. (7),0,6,6,Evening,everything (7) me makes mad lately.,6
+i’m anxious about my exams. (7),fear,2025-01-02 20:30:00,i’m anxious about exams. (7),1,6,5,Evening,anxious exams. about (7) i’m,5
+life feels amazing and beautiful! (7),joy,2025-01-02 21:30:00,life feels amazing beautiful! (7),2,6,5,Evening,amazing feels (7) beautiful! life,5
+i feel so happy today! (8),joy,2025-01-02 22:30:00,feel happy today! (8),2,6,4,Evening,today! happy (8) feel,4
+i am really sad and lonely. (8),sadness,2025-01-02 23:30:00,really sad lonely. (8),3,7,4,Evening,sad lonely. (8) really,4
+everything makes me angry lately. (8),anger,2025-01-03 00:30:00,everything makes me angry lately. (8),0,6,6,Night,angry makes (8) lately. me everything,6
+i’m anxious about my exams. (8),fear,2025-01-03 01:30:00,i’m anxious about exams. (8),1,6,5,Night,about i’m (8) exams. anxious,5
+life feels amazing and beautiful! (8),joy,2025-01-03 02:30:00,life feels amazing beautiful! (8),2,6,5,Night,beautiful! amazing feels life (8),5
+i feel so happy today! (9),joy,2025-01-03 03:30:00,feel happy today! (9),2,6,4,Night,happy feel today! (9),4
+i am really sad and lonely. (9),sadness,2025-01-03 04:30:00,really sad lonely. (9),3,7,4,Night,lonely. really (9) unhappy,4
+everything makes me angry lately. (9),anger,2025-01-03 05:30:00,everything makes me angry lately. (9),0,6,6,Night,everything (9) lately. me makes mad,6
+i’m anxious about my exams. (9),fear,2025-01-03 06:30:00,i’m anxious about exams. (9),1,6,5,Morning,anxious about (9) i’m exams.,5
+life feels amazing and beautiful! (9),joy,2025-01-03 07:30:00,life feels amazing beautiful! (9),2,6,5,Morning,(9) amazing feels life beautiful!,5
+i am feeling excited,joy,2025-01-03 08:30:00,feeling excited,2,4,2,Morning,feeling thrilled,2
+i feel a bit angry today,anger,2025-01-03 09:30:00,feel bit angry today,0,6,4,Morning,mad bit today feel,4
+life is amazing,joy,2025-01-03 10:30:00,life amazing,2,3,2,Morning,life wonderful,2
+i am scared of the dark,fear,2025-01-03 11:30:00,scared dark,1,6,2,Morning,scared dark,2
+i am feeling excited,joy,2025-01-03 12:30:00,feeling excited,2,4,2,Afternoon,thrilled feeling,2
+i feel a bit angry today,anger,2025-01-03 13:30:00,feel bit angry today,0,6,4,Afternoon,feel bit angry today,4
+life is amazing,joy,2025-01-03 14:30:00,life amazing,2,3,2,Afternoon,wonderful life,2
+i am scared of the dark,fear,2025-01-03 15:30:00,scared dark,1,6,2,Afternoon,dark afraid,2
+i am feeling excited,joy,2025-01-03 16:30:00,feeling excited,2,4,2,Afternoon,feeling thrilled,2
+i feel a bit angry today,anger,2025-01-03 17:30:00,feel bit angry today,0,6,4,Afternoon,today bit angry feel,4
+life is amazing,joy,2025-01-03 18:30:00,life amazing,2,3,2,Evening,life amazing,2
+i am scared of the dark,fear,2025-01-03 19:30:00,scared dark,1,6,2,Evening,afraid dark,2
+i am feeling excited,joy,2025-01-03 20:30:00,feeling excited,2,4,2,Evening,excited feeling,2
+i feel a bit angry today,anger,2025-01-03 21:30:00,feel bit angry today,0,6,4,Evening,bit today angry feel,4
+life is amazing,joy,2025-01-03 22:30:00,life amazing,2,3,2,Evening,wonderful life,2
+i am scared of the dark,fear,2025-01-03 23:30:00,scared dark,1,6,2,Evening,dark afraid,2
+i am feeling excited,joy,2025-01-04 00:30:00,feeling excited,2,4,2,Night,feeling excited,2
+i feel a bit angry today,anger,2025-01-04 01:30:00,feel bit angry today,0,6,4,Night,today angry bit feel,4
+life is amazing,joy,2025-01-04 02:30:00,life amazing,2,3,2,Night,amazing life,2
+i am scared of the dark,fear,2025-01-04 03:30:00,scared dark,1,6,2,Night,afraid dark,2
+i am feeling excited,joy,2025-01-04 04:30:00,feeling excited,2,4,2,Night,feeling thrilled,2
+i feel a bit angry today,anger,2025-01-04 05:30:00,feel bit angry today,0,6,4,Night,mad today bit feel,4
+life is amazing,joy,2025-01-04 06:30:00,life amazing,2,3,2,Morning,amazing life,2
+i am scared of the dark,fear,2025-01-04 07:30:00,scared dark,1,6,2,Morning,dark afraid,2
+i am feeling excited,joy,2025-01-04 08:30:00,feeling excited,2,4,2,Morning,excited feeling,2
+i feel a bit angry today,anger,2025-01-04 09:30:00,feel bit angry today,0,6,4,Morning,mad feel today bit,4
+life is amazing,joy,2025-01-04 10:30:00,life amazing,2,3,2,Morning,life wonderful,2
+i am scared of the dark,fear,2025-01-04 11:30:00,scared dark,1,6,2,Morning,scared dark,2
+i am feeling excited,joy,2025-01-04 12:30:00,feeling excited,2,4,2,Afternoon,thrilled feeling,2
+i feel a bit angry today,anger,2025-01-04 13:30:00,feel bit angry today,0,6,4,Afternoon,mad feel today bit,4
+life is amazing,joy,2025-01-04 14:30:00,life amazing,2,3,2,Afternoon,life amazing,2
+i am scared of the dark,fear,2025-01-04 15:30:00,scared dark,1,6,2,Afternoon,dark afraid,2
+i am feeling excited,joy,2025-01-04 16:30:00,feeling excited,2,4,2,Afternoon,feeling thrilled,2
+i feel a bit angry today,anger,2025-01-04 17:30:00,feel bit angry today,0,6,4,Afternoon,bit feel today angry,4
+life is amazing,joy,2025-01-04 18:30:00,life amazing,2,3,2,Evening,wonderful life,2
+i am scared of the dark,fear,2025-01-04 19:30:00,scared dark,1,6,2,Evening,dark afraid,2
+i am feeling excited,joy,2025-01-04 20:30:00,feeling excited,2,4,2,Evening,thrilled feeling,2
+i feel a bit angry today,anger,2025-01-04 21:30:00,feel bit angry today,0,6,4,Evening,bit feel today angry,4
+life is amazing,joy,2025-01-04 22:30:00,life amazing,2,3,2,Evening,life wonderful,2
+i am scared of the dark,fear,2025-01-04 23:30:00,scared dark,1,6,2,Evening,dark afraid,2

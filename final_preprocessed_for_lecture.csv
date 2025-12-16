@@ -1,0 +1,10 @@
+text,emotion,timestamp,text_lower,clean_text,emotion_label,words_before,words_after,time_period,augmented_text
+I feel so happy today!,joy,2025-01-01 06:30:00,i feel so happy today!,feel happy today!,2,5,3,Morning,feel happy today!
+I am really sad and lonely.,sadness,2025-01-01 09:30:00,i am really sad and lonely.,really sad lonely.,3,6,3,Morning,sad lonely. really
+Everything makes me angry lately.,anger,2025-01-01 12:30:00,everything makes me angry lately.,everything makes me angry lately.,0,5,5,Afternoon,makes lately. everything mad me
+I’m anxious about my exams.,fear,2025-01-01 15:30:00,i’m anxious about my exams.,i’m anxious about exams.,1,5,4,Afternoon,exams. anxious about i’m
+Life feels amazing and beautiful!,joy,2025-01-01 18:30:00,life feels amazing and beautiful!,life feels amazing beautiful!,2,5,4,Evening,life beautiful! amazing feels
+I am feeling excited,joy,2025-01-01 21:30:00,i am feeling excited,feeling excited,2,4,2,Evening,excited feeling
+I feel a bit angry today,anger,2025-01-02 00:30:00,i feel a bit angry today,feel bit angry today,0,6,4,Night,today angry feel bit
+Life is amazing,joy,2025-01-02 03:30:00,life is amazing,life amazing,2,3,2,Night,amazing life
+I am scared of the dark,fear,2025-01-02 06:30:00,i am scared of the dark,scared dark,1,6,2,Morning,scared dark
